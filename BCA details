@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>www.bca subject.com</title>
+	<style type="text/css">
+		.ghn{
+			display: flex;
+			flex-direction: column;
+			width: 65%;
+			margin: 0 0 0 64px;
+			padding: 0 0 0 10px;
+		}
+
+	div{
+
+	}
+	
+		.kju {
+			display: flex;
+			width: 90%;
+			margin: 0 0 075px;
+			padding: 0 0 0 10px;
+		}
+		.ghn div {
+			display :flex ;
+			justify-content:  space-around;
+			background-color: #fffffffff;
+			backdrop-filter: blur(150px);
+			
+		
+		}
+		
+		.ghn h2{
+			width: 20%;
+		}
+		.ghn div h2{
+			width: 40%;
+			overflow-wrap: break-word;
+		}
+	</style>
+<style type="text/css">
+	.jkl{
+		display: flex;
+	}
+</style>
+</head>
+<body background="plk2.jpg">
+	<h1 style="text-align: center; color: whitesmoke;"><u><b>BCA Subjects & Syllabus Full Details </b></u></h1>
+<hr>
+<h4 style="color:whitesmoke;word-spacing:5px ;margin: 0 0 0 75px;"><p>BY AMRIT ANAND <img src="im2.jpg" height="30" alt=""> </p>
+	
+<div class="jkl">
+	<img src="TN3.jpeg" width="500" height="350" >
+	<h3 style="color: whitesmoke; margin: 0 0 0 8px; width: 55%;"><p>Bachelor of Computer Applications or BCA is one of the most opted computer courses after 12th standard. Running for 3 years, it imparts extensive knowledge in Computer Fundamentals, Programming Languages, Database Systems, Information Security, and Web Development. With the inclusion of programming languages like C++, the course nurtures you to become a specialist in the field of Information Technology. When it comes to the BCA syllabus, the name of the topics/subjects can vary from one university to another. However, the core components remain the same. So, if you’re someone who is looking for a list of BCA course subjects, you are exactly at the right place! </h3></p>
+</div>
+<hr>
+<br>
+<h2 style="color: lightgreen;word-spacing:5px ;margin: 0 0 0 75px;"><u><b>THIS BLOG INCLUDES:-</b></u></h2>
+<br>
+<h3 style="color: lightblue; margin: 0 0 0 90px;">1 .About Bachelor of Computer Applications (BCA)</h3>
+<br>
+<h3 style="color: lightcoral; margin: 0 0 0 90px;">2 .Required Skillset for BCA</h3>
+<br>
+<h3 style="color: lightcyan; margin: 0 0 0 90px;">3 .BCA Specialisations</h3>
+<br>
+<h3 style="color: lightgoldenrodyellow; margin: 0 0 0 90px;">4 .Prominent BCA Course Subjects</h3>
+<br>
+<h3 style="color: lightsalmon; margin: 0 0 0 90px;">5 .BCA Course Subjects Semester-wise</h3>
+<ul>
+<h3 style="color: whitesmoke; margin: 0 0 0 140px;"><li>Core Subjects</li></h3>
+		<h3 style="color: whitesmoke; margin: 0 0 0 140px;"><li>Electives</li></h3>
+		</ul>
+<h3 style="color: lightsteelblue; margin: 0 0 0 90px;">6 .BCA Subjects in Detail</h3>
+<ul>
+	<h3 style="color: whitesmoke; margin: 0 0 0 140px;"><li>Software Development</li></h3>
+	<h3 style="color: whitesmoke; margin: 0 0 0 140px;"><li>Software Engineering</li>
+		<h3 style="color: whitesmoke; margin: 0 0 0 140px;"><li>Multimedia Systems</li>
+			<h3 style="color: whitesmoke; margin: 0 0 0 140px;"><li>Artificial Intelligence</li>
+				<h3 style="color: whitesmoke; margin: 0 0 0 140px;"><li>Web-Based Applications Development</li>
+					<h3 style="color: whitesmoke; margin: 0 0 0 140px;"><li>Theoretical Computer Science</li>
+						<h3 style="color: whitesmoke; margin: 0 0 0 140px;"><li>Database Management System</li>
+							<h3 style="color: whitesmoke; margin: 0 0 0 140px;"><li>Data Communication and Computer Networks </li>
+							</ul>
+							<br>
+<h3 style="color: lightsalmon; margin: 0 0 0 90px;">7 .BCA Books and Course Material</h3>
+<br>
+<h3 style="color: orangered; margin: 0 0 0 90px;">8 .BCA Course Admission Process 2023</h3>
+<ul>
+	<h3 style="color: whitesmoke; margin: 0 0 0 140px;"><li>Eligibility</li></h3>
+	<h3 style="color: whitesmoke; margin: 0 0 0 140px;"><li>Application Process</li></h3>
+	<h3 style="color: whitesmoke; margin: 0 0 0 140px;"><li>Entrance Exam</li></h3>
+</ul>
+<div class="ghn" >
+	<div>
+		<h2 style="color:whitesmoke;" ><u>Name of the Course:- </u></h2>
+		<h2 style="color:whitesmoke;">(BCA) – Bachelor of Computer Applications </h2>
+	</div>
+	<div>
+		<h2 style="color:whitesmoke;">Duration:- </h2>
+		<h2 style="color:whitesmoke;">3 years or  depending upon the university </h2>
+	</div>
+	<div>
+		<h2 style="color:whitesmoke;">Eligibility:- </h2>
+		<h2 style="color:whitesmoke;">10+2 preferably in the Commerce stream
+BCA Entrance Exams in India: IPU CET BCA, KIITEE BCA, LUCSAT BCA, etc.
+BCA Entrance Exams abroad: SAT/ACT; TOEFL/IELTS</h2>
+	</div>
+	<div>
+		<h2 style="color:whitesmoke;">Subjects Covered:- </h2>
+		<h2 style="color:whitesmoke;">Fundamentals of Computers
+C Programming
+Operating Systems
+Multimedia Systems
+Understanding Organisational Behaviour
+Data and Database Management Systems
+Web-Based Application Development
+Computer Lab and Practical Work </h2>
+</div>
+</div>
+
+<br>
+<h2 style="color: lightgreen; margin: 0 0 0 75px;"><u>About Bachelor of Computer Applications (BCA)</u></h2>
+<h3 style="color: whitesmoke; margin: 0 0 0 75px; width: 82%;">Bachelor of Computer Applications (BCA) is a three-year undergraduate course that imparts students with the foundational and advanced knowledge of Information Technology and Computer Applications. BCA course provides students with knowledge of computer applications as well as how to solve various problems and issues related to a computer or its applications. The BCA subjects cover programming languages like C++ and JAVA, Networking, Fundamentals of Computers, Multimedia Systems, Data Structure, Web-Based Application Development, Web Designing, and Software Engineering amongst others.</h3>
+<br>
+<h2 style="color: lightblue; margin: 0 0 0 75px;"><u><b>Required Skillset for BCA</b></u></h2>
+<br>
+<div class="ghn">
+	<div>
+<h2 style="color:whitesmoke;">Strong programming knowledge:-  </h2>
+<h2 style="color:whitesmoke;">Strong knowledge of Computers and IT </h2>
+</div>
+<div>
+<h2 style="color:lightsalmon;">Ability to develop applications for practical aspects:-  </h2>
+<h2 style="color:lightsalmon;">Analytical Thinking </h2>
+</div>
+<div >
+<h2 style="color:lightsteelblue;">Strong communication skills:- </h2>
+<h2 style="color:lightsteelblue;">Creativity </h2>
+</div>
+<div >
+<h2 style="color:lightcyan;">Teamwork:- </h2>
+<h2 style="color:lightcyan;">	Strong database concepts </h2>
+</div>
+</div class="ghn">
+<br>
+<h2 style="color: greenyellow; margin: 0 0 0 75px;"><b>BCA Specialisations</b></h2>
+<h3 style="color: skyblue; margin: 0 0 0 75px;"><u><b>BCA is also offered in the following subjects and specializations:- </b></u></h3>
+<br>
+<ul>
+	<h3 style="color: whitesmoke; margin: 0 0 0 140px;"><li>Animation</li></h3>
+	<h3 style="color: whitesmoke; margin: 0 0 0 140px;"><li>Accounting Applications</li></h3>
+	<h3 style="color: whitesmoke; margin: 0 0 0 140px;"><li>Systems Analysis</li></h3>
+	<h3 style="color: whitesmoke; margin: 0 0 0 140px;"><li>Personal Information Management</li></h3>
+	<h3 style="color: whitesmoke; margin: 0 0 0 140px;"><li>Programming Languages</li></h3>
+	<h3 style="color: whitesmoke; margin: 0 0 0 140px;"><li>Internet Technologies</li></h3>
+	<h3 style="color: whitesmoke; margin: 0 0 0 140px;"><li>Computer Graphics</li></h3>
+	<h3 style="color: whitesmoke; margin: 0 0 0 140px;"><li>Music and Video Processing</li></h3>
+	<h3 style="color: whitesmoke; margin: 0 0 0 140px;"><li>Cyber Law</li></h3>
+</ul>
+<br>
+<h2 style="color:yellow; margin: 0 0 0 75px;"><b>Prominent BCA course subjects </b></h2>
+<h3 style="color: skyblue; margin: 0 0 0 75px; width: 82%;"><u><b>Though there are scores of subjects that you will study during the journey of the program, here are some of the most important BCA course subjects:- </b></u></h3>
+<br>
+<ul>
+	<h3 style="color: whitesmoke; margin: 0 0 0 140px;"><li>Fundamentals of Computers</li></h3>
+	<h3 style="color: whitesmoke; margin: 0 0 0 140px;"><li>C Programming</li></h3>
+	<h3 style="color: whitesmoke; margin: 0 0 0 140px;"><li>Operating Systems</li></h3>
+	<h3 style="color: whitesmoke; margin: 0 0 0 140px;"><li>Multimedia Systems</li></h3>
+	<h3 style="color: whitesmoke; margin: 0 0 0 140px;"><li>Understanding Organisational Behaviour</li></h3>
+	<h3 style="color: whitesmoke; margin: 0 0 0 140px;"><li>Data and Database Management Systems</li></h3>
+	<h3 style="color: whitesmoke; margin: 0 0 0 140px;"><li>Web-Based Application Development</li></h3>
+	<h3 style="color: whitesmoke; margin: 0 0 0 140px;"><li>Computer Lab and Practical Work</li></h3>
+	</ul>
+	<br>
+	<br>
+<h2 style="color:red; margin: 0 0 0 75px;"><b>BCA Course Subjects Semester-wise</b></h2>
+<h3 style="color: skyblue; margin: 0 0 0 75px;"><b><u>Check out the semester-wise course subjects for the BCA course here.:- </b></u></h3>
+<br>
+<h2 style="color:antiquewhite; margin: 0 0 0 75px;"><u><b>Core Subjects</b></u></h2>
+<br> 
+<div class="ghn" >
+	<div>
+		<h2 style="color:whitesmoke;"><b><u> Semester </u></b></h2>
+			<h2 style="color:whitesmoke;"><b><u>BCA Subjects</u></b></h2>
+	</div>
+	<div>
+		<h2 style="color:lightgoldenrodyellow;"><b>1.</b></h2>
+		<h2 style="color:lightgoldenrodyellow;">Fundamentals of IT & Computers
+Digital Electronics
+Basic Mathematics
+English Communication
+C Language Lab</h2>
+	</div>
+	<div>
+		<h2 style="color:lightsalmon;"><b>2.</b></h2>
+		<h2 style="color:lightsalmon;">
+			Operating Systems and Fundamentals
+Organizational Behaviour
+C Language Advanced Concepts
+Advanced Mathematics
+Advanced C Programming Lab
+		</h2>
+	</div>
+	<div>
+		<h2 style="color:lightsteelblue;"><b>3.</b></h2>
+		<h2 style="color:lightsteelblue;">Database Management Systems
+Open Source Technology
+Software Engineering
+Web-Based Applications
+DBMS and Web Technology Lab</h2>
+	</div>
+	<div>
+		<h2 style="color:lightsteelblue;"><b>4.</b></h2>
+		<h2 style="color:lightsteelblue;">Web Designing
+Data Structures
+Introduction to Linux
+Object-Oriented Programming
+Elective </h2>
+	</div>
+	<div>
+		<h2 style="color:whitesmoke;"><b>5.</b></h2>
+		<h2 style="color:whitesmoke;">Software Engineering – II
+Java Programming
+Python Language
+eCommerce and Marketing
+Elective
+Advanced Java and Python Lab</h2>
+	</div>
+	<div>
+		<h2 style="color:whitesmoke;"><b>6.</b></h2>
+		<h2 style="color:whitesmoke;">	Artificial Intelligence
+Information Security
+Application Development
+Elective
+Project/Dissertation</h2>
+	</div>
+</div class="ghn">
+<br>
+<div class="jkl">
+	 <h2 style="color: greenyellow; margin: 0 0 0 75px;"><b>Note:-</b></h2>
+	 <h3 style="color: lightblue; margin: 0 0 0 50px;"><i>This is a generalized list. The core subjects and electives can vary from one university to another. </i></h3>
+</div>
+<br>
+<div  class="kju">
+
+		<a href="https://youtu.be/oJGzc4PSYXc?si=1Q-AO3VqR5WBApBd" target="_main"><h2 style=" padding :6px;border: 5px solid whitesmoke;color: royalblue; margin: 0 0 0 75px;">BCA vs B.tech: Which is a Better Choice?</h2></a>
+		<h2 style=" padding :6px;border: 5px solid whitesmoke;color: whitesmoke; margin: 0 0 0 75px;">Top Colleges for BCA in india </h2>
+	</div>
+			<h2 style="color: orangered; margin: 0 0 0 75px;">ELECTIVES</h2>
+<h3 style="color: whitesmoke; margin: 0 0 0 75px; width:82%">Apart from the core subjects, the Bachelor of Computer Application degree also has open elective courses in which one has to opt-in for different semesters to complete the degree program. Here is a list of some of the popular electives in the BCA course:</h3>
+<br>
+<ul>
+<h3 style="color:whitesmoke;margin: 0 0 0 140px;"><li>Cloud Computing</li></h3>
+<h3 style="color:whitesmoke;margin: 0 0 0 140px;"><li>Gaming and Animation</li></h3>
+<h3 style="color:whitesmoke;margin: 0 0 0 140px;"><li>Computer Graphics</li></h3>
+<h3 style="color:whitesmoke;margin: 0 0 0 140px;"><li>Digital Marketing</li></h3>
+<h3 style="color:whitesmoke;margin: 0 0 0 140px;"><li>Data Mining</li></h3>
+<h3 style="color:whitesmoke;margin: 0 0 0 140px;"><li>MATLAB</li></h3>
+<h3 style="color:whitesmoke;margin: 0 0 0 140px;"><li>Agile Frameworks</li></h3>
+</ul>
+<h2 style="color:skyblue;margin: 0 0 0 75px;">BCA Subjects in Detail</h2>
+<h3 style="color:whitesmoke;margin: 0 0 0 75px;width: 82%;">Now that you are familiar with the list of BCA course subjects and syllabus, let us have an overview of some of the important subjects.</h3>
+<br>
+<h2 style="color:skyblue;margin: 0 0 0 75px;">Software Development</h2>
+<h3 style="color:whitesmoke;margin: 0 0 0 75px;width: 82%;">In this course, topics like multithreading, inheritance, networking, database programming, and web development are covered along with gaining experience in advanced programming languages like Python, Java, Assembly, COBOL, C, Lisp, etc. You also get to design, implement, test, and debug large programs.</h3>
+<br>
+<h2 style="color:skyblue;margin: 0 0 0 75px;">Software Engineering</h2>
+<h3 style="color:whitesmoke;margin: 0 0 0 75px; width: 82%;">This subject covers the fundamentals of Software Engineering which aim to provide methodologies and procedures for designing, developing, and maintaining a reliable software system useful to humans. Some of the few units covered in this subject area, designing software solutions, software implementation, and maintenance.</h3>
+<br>
+<h2 style="color:skyblue;margin: 0 0 0 75px;">Multimedia Systems</h2>
+<h3 style="color:whitesmoke;margin: 0 0 0 75px; width: 82%;">Multimedia data has become an essential part of today’s world and modern research projects. The subject gives a thorough understanding of multimedia standards, systems and tools, content representation to multimedia retrieval, and also multimedia network communication.</h3>
+<br>
+<h2 style="color:skyblue;margin: 0 0 0 75px;">Artificial Intelligence</h2>
+<h3 style="color:whitesmoke;margin: 0 0 0 75px; width: 82%;">Artificial intelligence or AI is one of the major components of Web 3.0 creating machines or computers as intelligent as humans. This is one of the unique BCA course subjects covering two of the major topics: machine learning and algorithms, building intelligent agents, and robots, and solving AI problems using Python programming. With expeditious development and growth in technology, we can expect more thrilling features and uses of AI in the future.</h3>
+<br>
+<h2 style="color:skyblue;margin: 0 0 0 75px;">Web-Based Applications Development</h2>
+<h3 style="color:whitesmoke;margin: 0 0 0 75px; width: 82%;">The subject focuses on designing and developing web-based applications using a wide range of tools and programming languages. Learning in-depth HTML and XHTML coding along with design concepts in CSS (Cascading Style Sheet) allows students to create web pages. The course also gives advanced knowledge about PHP, which is one of the world’s most eminent programming languages for web development.</h3>
+<br>
+<h2 style="color:skyblue;margin: 0 0 0 75px;">Theoretical Computer Science</h2>
+<h3 style="color:whitesmoke;margin: 0 0 0 75px; width: 82%;">Theoretical computer science comprises the understanding of the theory of computation along with mathematical tools. These include topics like algorithms, automata theory, logic, computational complexity, and combinatorics. </h3>
+<br>
+<h2 style="color:skyblue;margin: 0 0 0 75px;">Database Management System</h2>
+<h3 style="color:whitesmoke;margin: 0 0 0 75px; width: 82%;">Database Management System or DBMS primarily aims at providing a mechanism to store and retrieve database information efficiently and conveniently. Some of the core concepts covered in this subject are relational algebra, SQL, relational design theory, online analytical processing, data mining, and much more. </h3>
+<br>
+<h2 style="color:skyblue;margin: 0 0 0 75px;">Data Communication and Computer Networks </h2>
+<h3 style="color:whitesmoke;margin: 0 0 0 75px; width: 82%;">The transmission of digital data between a computer network or data network and two or more computers is termed data communication. A computer network allows computers to exchange data either through cable media or wirelessly. In modern information and retrieval system, the communication platform is channelized towards a more creative and interactive mode. Essential topics covered in data communication and computer network (DCN) include signal transmission, encoding, and interfacing, transmission media, data link control, multiplexing, LANs, and WANs. </h3>
+<br>
+<h2 style="color:lightgreen;margin: 0 0 0 75px;"><u>BCA Books and Course Material</u></h2>
+<br>
+<div class="ghn">
+	<div>
+		<h2 style="color:whitesmoke;"><b><u>Name Of The Book</u></b></h2>
+		<h2 style="color:whitesmoke;"><b><u>Name Of The Author</u></b></h2>
+	</div>
+	<div>
+		<h2 style="color:whitesmoke;">A Textbook on C: Fundamentals, Data Structures, and Problem-Solving</h2>
+		<h2 style="color:whitesmoke;">Karthikeyan</h2>
+</div>
+<div>
+	<h2 style="color:whitesmoke;">The C Programming Language</h2>
+	<h2 style="color:whitesmoke;">Brian W Kernighan</h2>
+</div>
+<div>
+<h2 style="color:whitesmoke;">Data Structure Using C </h2>
+<h2 style="color:whitesmoke;">A K Sharma</h2>
+</div>
+<div>
+<h2 style="color:whitesmoke;">Operating System Concepts</h2>	
+<h2 style="color:whitesmoke;">Avi Silberschatz and Peter Galvin</h2>
+</div>
+<div>
+<h2 style="color:whitesmoke;">Avi Silberschatz and Peter Galvin</h2>
+<h2 style="color:whitesmoke;">Maurice Bach</h2>	
+</div>
+<div>
+<h2 style="color:whitesmoke;">Software Engineering</h2>
+<h2 style="color:whitesmoke;">Ian Sommerville</h2>	
+</div>
+<div>
+<h2 style="color:whitesmoke;">Algebraic Methodology and Software Technology</h2>	
+<h2 style="color:whitesmoke;">Grigore Rosu and Jose Meseguer</h2>
+</div>
+<div>
+<h2 style="color:whitesmoke;">Fundamentals of Numerical Computation</h2>
+<h2 style="color:whitesmoke;">G Alefeld and R Grigorieff</h2>
+</div>
+<div>
+<h2 style="color:whitesmoke;">Object-Oriented Analysis and Design with Applications</h2>	
+<h2 style="color:whitesmoke;">Booch</h2>
+</div>
+</div class="ghn">
+<br>
+<h2 style="color:lightgreen;margin: 0 0 0 75px;">Top Colleges for BCA in India
+</h2>
+<h3 style="color:skyblue;margin: 0 0 0 75px;width: 82%;"> <u>Here are the major colleges offering BCA in India:</u></h3>
+<ul>
+<a href="https://www.loyolacollege.edu/" target="_main"><h3 style="color:royalblue;margin: 0 0 0 140px;"><li>Loyola College, Chennai</li></h3></a>
+<a href="https://www.sicsr.ac.in/" target="_main"><h3 style="color:royalblue;margin: 0 0 0 140px;"><li>Symbiosis Institute of Computer Studies and Research, Pune
+</li></h3></a>
+<a href="https://www.amity.edu/aiit/" target="_main"><h3 style="color:royalblue;margin: 0 0 0 140px;"><li>Amity Institute of Information Technology</li></h3></a>
+	<a href="https://vitbhopal.ac.in/" target="_main"><h3 style="color:royalblue;margin: 0 0 0 140px;"><li>Vellore Institute of Technology</li></h3></a>
+		<a href="https://www.lpu.in/" target="_main"><h3 style="color:royalblue;margin: 0 0 0 140px;"><li>Lovely Professional University</li></h3></a>
+			<a href="https://paruluniversity.ac.in/" target="_main"><h3 style="color:royalblue;margin: 0 0 0 140px;"><li>Parul University</li></h3></a>
+				<a href="https://www.upes.ac.in/" target="_main"><h3 style="color:royalblue;margin: 0 0 0 140px;"><li>The University of Petroleum and Energy Studies (UPES)</li></h3></a>
+					<a href="https://vipstc.edu.in/" target="_main"><h3 style="color:royalblue;margin: 0 0 0 140px;"><li>Vivekananda Institute of Professional Studies</li></h3></a>
+</ul>
+<h2 style="color:skyblue;margin: 0 0 0 75px;">BCA Course Admission Process 2023</h2>
+<h3 style="color:whitesmoke;margin: 0 0 0 75px;width: 82%;">Merit-based and entrance-based admissions are both a part of the BCA admissions process. A minimum of 50% in a 10+2 or similar test with computer application/science as an additional or core subject is required for enrolment in a BCA program.</h3>
+<br>
+<h2 style="color:skyblue;margin: 0 0 0 75px;">Eligibility</h2>
+<ul>
+<h3 style="color:whitesmoke;margin: 0 0 0 75px;width: 82%;"><li>The eligibility criteria for the BCA course is that the applicant must have completed 10+2 preferably in Commerce and some universities might also have their specific entrance tests for this course.</li>
+	<h3 style="color:whitesmoke;margin: 0 0 0 75px;width: 82%;"><li>Major BCA entrance exams include IPU CET BCA, KIITEE BCA, LUCSAT BCA, etc.</li>
+		<h3 style="color:whitesmoke;margin: 0 0 0 75px;width: 82%;"><li>If you are planning to study BCA abroad, then you might be asked to provide SAT and ACT scores in countries like the USA. Additionally, you will also have to submit language proficiency scores such as IELTS, TOEFL, etc. as well as SOP and LORs.</li>
+			</h3></ul>
+			<br>
+<h2 style="color:skyblue;margin: 0 0 0 75px;">Application Process</h2>
+<h3 style="color:whitesmoke;margin:0 0 0 75px;width: 82%;">Both online and offline applications are accepted by BCA universities that offer admission to this program.</h3>
+<br>
+<h3 style="color:whitesmoke;margin: 0 0 0 75px;width: 80%;">When applying for the BCA Course, follow the instructions below:</h3>
+<br>
+<ul>
+	<h3 style="color:whitesmoke;margin: 0 0 0 75px;width: 80%;"><li>Visit the Admissions office or the Institute’s official website to obtain BCA entry application forms.</li></h3>
+	<h3 style="color: whitesmoke;margin: 0 0 0 75px;width: 80%;"><li>As instructed, complete the application form, and upload the required documents in the relevant sizes.</li></h3>
+	<h3 style="color:whitesmoke;margin: 0 0 0 75px;width: 80%;"><li>After applications are processed, rounds of GD and Personal Interviews are completed, and then the ultimate choice is chosen (if any).</li></h3>
+	<h3 style="color:whitesmoke;margin: 0 0 0 75px;width: 80%;"><li>Candidates must take the entrance exam to be considered for BCA Entrance-Based Admissions; if they pass, they are then invited to the counselling process or Personal Interview Round.</li></h3>
+</ul>			
+<br>
+<h2 style="color:skyblue;margin: 0 0 0 75px;">Entrance Exam</h2>
+<br>
+<h3 style="color:whitesmoke;margin: 0 0 0 75px;width: 80%;">Here are some of the common entrance exams conducted for BCA admissions in India.</h3>
+<br>
+<ul>
+<h3 style="color:whitesmoke;margin: 0 0 0 75px;width: 80%;"><li>Management Aptitude Test (BU MAT)</li></h3>
+<h3 style="color:whitesmoke;margin: 0 0 0 75px;width: 80%;"><li>Sri Sathya Sai Institute of Higher Learning Admissions Test (SSSIHLAT)</li></h3>
+<h3 style="color:whitesmoke;margin: 0 0 0 75px;width: 80%;"><li>RAMA University Entrance Test (RUET)</li></h3>
+<h3 style="color:whitesmoke;margin: 0 0 0 75px;width: 80%;"><li>Indraprastha University  Common Entrance Test (IPU-CET)</li></h3>
+<h3 style="color: whitesmoke;margin: 0 0 0 75px;width: 80%;"><li>Symbiosis Entrance Test (SET)</li></h3>
+<h3 style="color:whitesmoke;margin: 0 0 0 75px;width: 80%;"><li>North Maharashtra University Undergraduate Common Entrance Test (NMU UG CET)</li></h3>
+<h3 style="color:whitesmoke;margin: 0 0 0 75px;width: 80%;"><li>Gitam Science Admissions Test (GSAT)</li></h3>
+<h3 style="color:whitesmoke;margin: 0 0 0 75px;width: 80%;"><li>Lucknow University Computer Science Admission Test (LUCSAT)</li></h3>
+<h3 style="color:whitesmoke;margin: 0 0 0 75px;width: 80%;"><li>AIMA UGAT</li></h3>
+</ul>
+<div style="background-color: darkcyan; height: max-content; width: 100%;">
+<hr>
+<footer>
+	<h3 style="color: white;margin: 0 0 0 75px;"> If Any Further Enquery</h3>
+<h3 style="color:white;margin: 0 0 0 75px; ">Contact With Us:</h3>
+<pre style="font-family: 'Times New Roman', Times, serif;">
+<h4 style="color:whitesmoke; margin: 0 0 0 75px"><a href="https://www.linkedin.com/in/amrit-anand-584bb9246" target="_main"><img src="lopy.png" width="30" height="30"></a>    <a href="https://x.com/soorajdeva1?s=21&t=vrnzf89xET2R3uq7aVA26A" target="_main"><img src="nmpk.png" width="30" height="30"></a>    <a href="https://instagram.com/__amrit__ad?igshid=MjEwN2IyYWYwYw==" target="_main"><img src="instagram-logo-icon-7.jpg" width="30"height="30"></a>    </h4> 
+<h4 style="color: white;margin: 0 0 0 75px;width: 80%;">Email:   <u>Amrit*********@gmail.com</u></h4>
+<h4 style="color: white;margin: 0 0 0 75px;width: 80%;">phone:   <u>7079****** / 9431******</u></h4>
+
+</pre>
+</footer>
+</div>
+</body>
+</html>
